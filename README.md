@@ -1,5 +1,5 @@
 # Reading List
 
-# My Publications
+# My Website
 
-https://github.com/JiashuWu/Publications
+https://jiashuwu.github.io
